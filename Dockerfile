@@ -1,4 +1,4 @@
-FROM openjdk:8-jre
+FROM openjdk:8-jre,maven:3.6.0
 RUN mvn clean package
 RUN mkdir /app
 COPY ./target/itoken-config-1.0.0-SNAPSHOT.jar /app/
