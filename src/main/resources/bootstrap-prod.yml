@@ -23,7 +23,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://ddmcc.ngrok.ibanzhuan.cn/eureka/
+      defaultZone: http://106.14.133.27:8761/eureka/
 
 management:
   endpoint:
