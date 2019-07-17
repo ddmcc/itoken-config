@@ -13,7 +13,7 @@ spring:
           uri: https://github.com/ddmcc/itoken-config
           search-paths: respo
           username: ddmcc
-          password: jrz0726
+          password: 
   zipkin:
     base-url: http://localhost:9411
 
