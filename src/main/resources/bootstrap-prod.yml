@@ -13,7 +13,7 @@ spring:
           uri: https://github.com/ddmcc/config
           search-paths: respo
           username: ddmcc
-          password: jrz0726
+          password: 
   zipkin:
     base-url: http://106.14.133.27:9411
 
